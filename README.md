@@ -5,3 +5,5 @@ Open cmd in that directory and type
 "python main.py binod"
 (where binod is the string to be counted).
 It was developed as "binod" counter but later modified it to find any word.
+
+
